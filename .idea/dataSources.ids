@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Sqlite (Xerial) - db.sqlite3" uuid="e30276c0-9b10-4b5b-ad59-1f4b439c4825">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+    <schema name="" catalog=""/>
+  </data-source>
+  <data-source name="PostgreSQL - test@localhost" uuid="d506983d-3828-4d92-9b3d-2aa36f36fa3f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="MySQL - dzfy@localhost" uuid="6811e78f-f2c0-4994-8d2a-c516254b3834">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
